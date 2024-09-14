@@ -1,5 +1,8 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=60758E&height=200&section=header&text=Hajin's%20Github&fontSize=48&fontColor=FFFFFF)
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=60758E&height=160&section=header" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hajin's%2C+Github👋🏻;" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/><br/>
