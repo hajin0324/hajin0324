@@ -1,5 +1,13 @@
-## Hi there 👋
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=60758E&height=200&section=header&text=Hajin's%20Github&fontSize=48&fontColor=FFFFFF)
+</div>
 
+<br/><br/>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hajin0324&show_icons=true" style="width: 46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajin0324&layout=compact" style="width: 35%">
+</div>
 <!--
 **hajin0324/hajin0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
